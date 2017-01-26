@@ -1,2 +1,4 @@
 # hello-world
-My 1st repo
+
+This is a ReadMe file.
+It has basic usage information about the program.
